@@ -32,7 +32,7 @@ const DashboardPage = Loadable(lazy(() => import('pages/dashboard/DashboardPage'
 // ==============================|| MAIN ROUTES ||============================== //
 
 const MainRoutes = {
-  path: '/',
+  path: '/testing/',
   children: [
     {
       path: '/',
