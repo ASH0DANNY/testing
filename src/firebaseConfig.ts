@@ -3,13 +3,13 @@ import { initializeApp, getApps } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig1 = {
-  apiKey: "AIzaSyBV98wElj_X715z0E8WDQ3BxjltpDDAeOY",
-  authDomain: "vps-master.firebaseapp.com",
-  projectId: "vps-master",
-  storageBucket: "vps-master.firebasestorage.app",
-  messagingSenderId: "240249257459",
-  appId: "1:240249257459:web:eb4563230093e7c49ce686",
-  measurementId: "G-2R2GJ02W6T"
+  apiKey: "AIzaSyAexHjzEWlIYxHI3TWa_NdqM23fD4knzxE",
+  authDomain: "supermart-722b5.firebaseapp.com",
+  projectId: "supermart-722b5",
+  storageBucket: "supermart-722b5.appspot.com",
+  messagingSenderId: "288883114231",
+  appId: "1:288883114231:web:99ba79ebfca4ad2af813f2",
+  measurementId: "G-L37537DZCZ"
 };
 
 // Check if Firebase app is already initialized
